@@ -1,0 +1,16 @@
+Project deliverables and scope:
+Website for modern browsers. Possibly a mobile app as well
+
+
+
+Project languages and frameworks
+
+Frontend: HTML, CSS, JavaScript, (possibly use jquery, react, vue, angular)
+
+Backend: Python (Could also use one of these too: Ruby on Rails, PHP, Node.js, Express.js,)
+if wanting to use lower level language could use: C#, Java (I don't recommend this)
+
+Possible way forward for the stack
+https://www.educative.io/blog/web-development-in-python
+
+Python is very good for data mining and data analysis
